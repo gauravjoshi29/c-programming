@@ -7,4 +7,4 @@ c-project ,number guessing game.
 
 
 
-by gauravjoshi29
+by @gauravjoshi29
