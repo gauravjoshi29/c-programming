@@ -7,4 +7,4 @@ These are sample programs for learning different topics in c-language.
 
 
 
-by gauravjoshi29
+by @gauravjoshi29
