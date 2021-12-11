@@ -1,1 +1,1 @@
-
+These are sample programs for learning different topics in c-language.
